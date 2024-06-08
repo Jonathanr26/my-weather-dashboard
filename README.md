@@ -141,7 +141,7 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 ![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/0f782fd0-6e6a-4fc1-b626-149a72c9b520)
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/c54ae46c-dc54-41b1-a42f-561ccb147a46)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/8a64629e-2b9d-4114-a940-affe3fb3ece1)
 
 ### Busqueda por ubicación actual
 
@@ -151,7 +151,7 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 ![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/2657cdca-a7c6-42da-a570-5df2a20cc4d6)
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/c8672154-4277-4616-a7f6-90e0937486e8)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/c4718c5b-2670-4411-a4b2-9fe9aec9346b)
 
 ### Cambio de tema
 
@@ -161,13 +161,13 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 ![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/47447b08-fca2-4d17-95ab-1641010c6d43)
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/11c52ecb-5d8f-41a3-8bff-489bd4f32ac2)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/f9b8e182-171a-44f2-a095-92d473d2d946)
 
 2. Ligth Mode
 
 ![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/9fad41c9-2f6e-4372-b306-cb1c9efdc590)
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/90e8588f-b8d8-443d-99d9-c391e1a71552)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/7962414c-58b2-4c6d-9a42-79e4277de011)
 
 ### Las Graficas cuentan con Tooltips 
 
