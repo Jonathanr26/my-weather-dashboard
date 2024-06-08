@@ -83,7 +83,7 @@ const DetailedWeatherCard = ({ weather, uvIndex }) => {
           <FeelsLike>Feels like: {weather.main.feels_like}°C</FeelsLike>
         </div>
         <WeatherIcon
-          src={`http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
+          src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
           alt={`Weather icon showing ${weather.weather[0].description}`}
         />
       </MainInfo>

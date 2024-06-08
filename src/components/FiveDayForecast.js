@@ -57,7 +57,7 @@ const FiveDayForecast = ({ forecast }) => {
           <span>{day.temp}°C</span>
           <span>{day.description}</span>
           <img
-            src={`http://openweathermap.org/img/wn/${day.icon}.png`}
+            src={`https://openweathermap.org/img/wn/${day.icon}.png`}
             alt={`Weather icon showing ${day.description}`}
           />
         </DayForecast>

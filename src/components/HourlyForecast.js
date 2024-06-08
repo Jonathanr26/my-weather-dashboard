@@ -88,7 +88,7 @@ const HourlyForecast = ({ forecast }) => {
           <HourCard key={index} $bg={hour.bgColor}>
             <Time>{hour.time}</Time>
             <ImgCard
-              src={`http://openweathermap.org/img/wn/${hour.icon}.png`}
+              src={`https://openweathermap.org/img/wn/${hour.icon}.png`}
               alt={`Weather icon: ${hour.description}`}
             />
             <Temp>{hour.temp}°C</Temp>
