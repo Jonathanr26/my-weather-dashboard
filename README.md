@@ -4,9 +4,22 @@
 
 My Weather Dashboard es una aplicación web que proporciona información detallada del clima para cualquier ciudad. La aplicación muestra la ciudad con su hora y fecha, el clima actual, el pronóstico a cinco días, un pronóstico horario y gráficos de temperatura y humedad. Además, permite buscar el clima por nombre de ciudad o utilizar la ubicación actual del usuario.
 
+## Tecnologías Utilizadas
+- **Next.js** - Framework de React para desarrollo web.
+- **JavaScript** - Lenguaje de programación principal utilizado en el proyecto.
+- **Chart.js** - Librería de gráficos para visualización de datos.
+- **Styled-components** - Librería para escribir CSS en JavaScript.
+
+## APIs Utilizadas
+Este proyecto utiliza las siguientes APIs para obtener y mostrar datos:
+
+- **OpenWeatherMap API**: Esta API proporciona datos meteorológicos actualizados y precisos. Puedes obtener más información y registrar una clave API en [OpenWeatherMap API](https://openweathermap.org/api).
+  
+- **TimeZoneDB API**: Esta API proporciona información de zonas horarias y conversión de tiempo. Puedes obtener más información y registrar una clave API en [TimeZoneDB API](https://timezonedb.com/api).
+
 ## Requisitos
 
-- Node.js (v12 o superior)
+- Node.js (v16 o superior)
 - Yarn o npm
 
 ## Configuración
@@ -32,7 +45,7 @@ My Weather Dashboard es una aplicación web que proporciona información detalla
 
 3. Configura las variables de entorno:
 
-    Cambiar el nombre del archivo `.env.example` a `.env`, ingresar sus variables:
+    Cambiar las variables de entorno, ingresar sus variables:
 
     ```env
     API_KEY_WEATHER=your_api_key_here
@@ -117,27 +130,28 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 ### Carga inicial
 
-![alt text](public\readmeImg\image-1.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/03a597b1-10b6-455c-9728-41a2c4bfe60c)
+
 
 ### Busqueda por ciudad
 
 - El input responde tanto al hacer enter o al hacer clic en el boton buscar
 
-![alt text](public\readmeImg\image-2.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/2374f117-013c-4b92-989d-e134b8393cd4)
 
-![alt text](public\readmeImg\image-3.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/0f782fd0-6e6a-4fc1-b626-149a72c9b520)
 
-![alt text](public\readmeImg\image-4.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/c54ae46c-dc54-41b1-a42f-561ccb147a46)
 
 ### Busqueda por ubicación actual
 
 - Se debe de dar acceso a la ubicación
 
-![alt text](public\readmeImg\image-7.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/36fbe5dd-23d9-4564-a0af-533e65c14ec8)
 
-![alt text](public\readmeImg\image-5.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/2657cdca-a7c6-42da-a570-5df2a20cc4d6)
 
-![alt text](public\readmeImg\image-6.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/c8672154-4277-4616-a7f6-90e0937486e8)
 
 ### Cambio de tema
 
@@ -145,22 +159,22 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 1. Dark Mode
 
-![alt text](public\readmeImg\image-8.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/2145bd13-af34-4fda-9cd5-decdf2918303)
 
-![alt text](public\readmeImg\image-9.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/6dd9ebe4-8644-4f66-8e95-65495c122ba2)
 
 2. Ligth Mode
 
-![alt text](public\readmeImg\image-10.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/9fad41c9-2f6e-4372-b306-cb1c9efdc590)
 
-![alt text](public\readmeImg\image-11.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/90e8588f-b8d8-443d-99d9-c391e1a71552)
 
 ### Las Graficas cuentan con Tooltips 
 
-![alt text](public\readmeImg\image-12.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/5a7b1c03-c2fd-41c2-ac3d-b53250d2b5a1)
 
-![alt text](public\readmeImg\image-13.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/5a5c8400-5e3d-4d70-ad93-4de42d08daba)
 
-![alt text](public\readmeImg\image-14.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/e2d6b097-1bb8-4844-9114-c594c70ed8bc)
 
-![alt text](public\readmeImg\image-15.png)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/216bab92-0630-4bcc-813e-66d4b63b7acf)
