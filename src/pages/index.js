@@ -65,6 +65,11 @@ const InitialSearchContainer = styled.div`
   margin: 0 auto;
   padding: 16px;
   animation: ${fadeIn} 1s ease-in;
+  @media (max-width: 768px) {
+  flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+  }
 `;
 
 const Header = styled.div`
