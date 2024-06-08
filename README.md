@@ -159,9 +159,9 @@ Se captura cualquier error durante la obtención de datos y se muestra un modal 
 
 1. Dark Mode
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/2145bd13-af34-4fda-9cd5-decdf2918303)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/47447b08-fca2-4d17-95ab-1641010c6d43)
 
-![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/6dd9ebe4-8644-4f66-8e95-65495c122ba2)
+![image](https://github.com/Jonathanr26/my-weather-dashboard/assets/54649236/11c52ecb-5d8f-41a3-8bff-489bd4f32ac2)
 
 2. Ligth Mode
 
